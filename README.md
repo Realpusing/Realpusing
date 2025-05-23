@@ -69,6 +69,13 @@ Currently diving deep into:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Realpusing&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Realpusing/Realpusing/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Realpusing/Realpusing/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Realpusing/Realpusing/output/pacman-contribution-graph.svg">
+</picture>
 ---
 
 ## 📫 Let's Connect
@@ -82,3 +89,8 @@ Currently diving deep into:
 <p align="center">
   ⭐️ If you like my work, give it a star and follow me for more awesome projects!
 </p>
+
+
+
+
+###
