@@ -49,15 +49,12 @@ Currently diving deep into:
 ## 🚀 Featured Projects
 
 ### 🔹 [DeepFake Image Classification using CNN](https://github.com/Realpusing/DeepFake-Image-Classification-using-CNN)  
-> Classifies AI-generated vs real human faces using Convolutional Neural Networks.
+> Classifies AI-generated vs. real human faces using Convolutional Neural Networks.  
 > `Python · TensorFlow · Image Classification · Deep Learning`
 
----
-
-### 🔹 [Absensi For Mitra in Libary SanataDharma](https://github.com/Realpusing/Absensi_Mitra_Perpus)  
-> Full-stack web app for destination showcasing & booking system using React & Firebase.  
+### 🔹 [Absensi Mitra Perpustakaan Sanata Dharma](https://github.com/Realpusing/Absensi_Mitra_Perpus)  
+> Full-stack web app for attendance system using React & Firebase.  
 > `React · Node.js · Firebase · TailwindCSS`
-
 
 ---
 
@@ -69,20 +66,23 @@ Currently diving deep into:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Realpusing&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-###
+---
+
+## 🎮 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Realpusing/Realpusing/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Realpusing/Realpusing/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Realpusing/Realpusing/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Realpusing/Realpusing/output/pacman-contribution-graph.svg">
 </picture>
+
 ---
 
 ## 📫 Let's Connect
 
-- 🌐 Portfolio: [.com](https://yourwebsite.com)
-- 📧 Email: anisgurnadi2com@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/Anisetus Masdian Rayadi](https://www.linkedin.com/in/anisetus-rayadi-580703255/)
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
+- 📧 Email: anisgurnadi2com@gmail.com  
+- 💼 LinkedIn: [Anisetus Masdian Rayadi](https://www.linkedin.com/in/anisetus-rayadi-580703255/)
 
 ---
 
