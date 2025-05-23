@@ -1,9 +1,8 @@
 <h1 align="center">👋 Hi, ALL !</h1>
 
 <p align="center">
-Hi! I'm Anisetus Masdian Rayadi, an Informatics student from Sanata Dharma University, Indonesia.
-I'm passionate about Deep Learning, especially working with neural networks and AI-driven solutions.
-In addition to my interest in machine learning, I'm also pursuing skills in Full Stack Web Development, enjoying the challenge of building complete, end-to-end applications — from frontend interfaces to backend logic and databases.
+  🎓 Informatics Student | 🧠 Machine Learning Enthusiast | 💻 Full Stack Developer <br>
+  📍 Indonesia | 🚀 Passionate about solving problems with code & building smart systems
 </p>
 
 ---
