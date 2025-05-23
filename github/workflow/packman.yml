@@ -2,26 +2,25 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # setiap hari tengah malam UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
+      - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Pacman Graph
+      - name: Generate the graph
         uses: Platane/snk@v3
         with:
           github_user_name: Realpusing
           outputs: |
-            ./output/pacman-contribution-graph.svg
-            ./output/pacman-contribution-graph-dark.svg
+            ./output/pacman.svg
 
-      - name: Push to GitHub Pages
+      - name: Push the output to the 'output' branch
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          branch: output # harus sesuai dengan tempat output kamu
+          branch: output
           folder: output
