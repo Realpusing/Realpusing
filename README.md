@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, ALL !</h1>
+<h1 align="center">👋 Hi, I'm Anisetus Masdian Rayadi</h1>
 
 <p align="center">
   🎓 Informatics Student | 🧠 Machine Learning Enthusiast | 💻 Full Stack Developer <br>
@@ -48,21 +48,16 @@ Currently diving deep into:
 
 ## 🚀 Featured Projects
 
-### 🔹 [DeepFake Image Classification using CNN](https://github.com/Realpusing/deepfake-detector)  
-> Classifies AI-generated vs real human faces using Convolutional Neural Networks.  
+### 🔹 [DeepFake Image Classification using CNN](https://github.com/Realpusing/DeepFake-Image-Classification-using-CNN)  
+> Classifies AI-generated vs real human faces using Convolutional Neural Networks.
 > `Python · TensorFlow · Image Classification · Deep Learning`
 
 ---
 
-### 🔹 [Smart Travel Web App – Shakran Tour & Travel](https://github.com/Realpusing/shakran-tour)  
+### 🔹 [Absensi For Mitra in Libary SanataDharma](https://github.com/Realpusing/Absensi_Mitra_Perpus)  
 > Full-stack web app for destination showcasing & booking system using React & Firebase.  
 > `React · Node.js · Firebase · TailwindCSS`
 
----
-
-### 🔹 [Fire & Smoke Detection using ANN](https://github.com/Realpusing/fire-smoke-detector)  
-> Multi-class classification model to detect fire, smoke, both, or none from images.  
-> `Python · ANN · Computer Vision · Image Augmentation`
 
 ---
 
